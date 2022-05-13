@@ -1,0 +1,20 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "Proyecto Automatización de paginas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebazzz6/selenium.git"
+  },
+  "author": "sebazzz6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebazzz6/selenium/issues"
+  },
+  "homepage": "https://github.com/sebazzz6/selenium#readme",
+  "keywords": []
+}
